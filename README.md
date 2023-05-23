@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Muhammad Zakry Zoekruf(@zakryz) A passionate data enthusiast who has interest in Data, Analyst, Data Scientist, Business Analyst and Machine Learning. 
+### 👋 Hi, I’m Muhammad Zakry Zoekruf(@zakryz) A passionate data enthusiast who has interest in Data Engineer. 
 #### Like to find innovative way to solve  problem through data with logical reasoning and analytical thinking
 #### - ✨ This is my personal GitHub for my Portfolio in Data roles!
 #### - 👀 I’m interested in Data Analyst, Data Scientist, Business Intelligence, Machine Learning and AI,
