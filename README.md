@@ -1,12 +1,11 @@
-### 👋 Hi, I’m Muhammad Zakry Zoekruf(@zakryz) A passionate data enthusiast who has interest in Data Engineer. 
+### 👋 Hi, I’m Muhammad Zakry Zoekruf(@zakryz) A passionate Data Engineer. 
 #### Like to find innovative way to solve  problem through data with logical reasoning and analytical thinking
-#### - ✨ This is my personal GitHub for my Portfolio in Data roles!
-#### - 👀 I’m interested in Data Analyst, Data Scientist, Business Intelligence, Machine Learning and AI,
-#### - 🌱 I’m currently learning Machine Learning
+#### - ✨ This is my personal GitHub for my Portfolio in Data Engineer!
+#### - 👀 I’m interested in Data Engineer, Business Intelligence, Machine Learning,
+#### - 🌱 I’m currently learning Data Engineer
 #### - 📫 you can reach me by [![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://zakizoukruf@gmail.com)  or [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zakry-zoekruf)
 ### Portfolio
 
-[Pizza Sales Explaratory Data Analysis ](https://github.com/zakryz/zakryz/blob/main/Portfolio%201.ipynb)
 
 
 ### Languages and Tools:
